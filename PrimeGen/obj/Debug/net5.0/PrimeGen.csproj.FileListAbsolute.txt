@@ -1,0 +1,16 @@
+C:\Users\psbyd\RiderProjects\PrimeGen\PrimeGen\bin\Debug\net5.0\PrimeGen.exe
+C:\Users\psbyd\RiderProjects\PrimeGen\PrimeGen\bin\Debug\net5.0\PrimeGen.deps.json
+C:\Users\psbyd\RiderProjects\PrimeGen\PrimeGen\bin\Debug\net5.0\PrimeGen.runtimeconfig.json
+C:\Users\psbyd\RiderProjects\PrimeGen\PrimeGen\bin\Debug\net5.0\PrimeGen.runtimeconfig.dev.json
+C:\Users\psbyd\RiderProjects\PrimeGen\PrimeGen\bin\Debug\net5.0\PrimeGen.dll
+C:\Users\psbyd\RiderProjects\PrimeGen\PrimeGen\bin\Debug\net5.0\ref\PrimeGen.dll
+C:\Users\psbyd\RiderProjects\PrimeGen\PrimeGen\bin\Debug\net5.0\PrimeGen.pdb
+C:\Users\psbyd\RiderProjects\PrimeGen\PrimeGen\obj\Debug\net5.0\PrimeGen.csproj.AssemblyReference.cache
+C:\Users\psbyd\RiderProjects\PrimeGen\PrimeGen\obj\Debug\net5.0\PrimeGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psbyd\RiderProjects\PrimeGen\PrimeGen\obj\Debug\net5.0\PrimeGen.AssemblyInfoInputs.cache
+C:\Users\psbyd\RiderProjects\PrimeGen\PrimeGen\obj\Debug\net5.0\PrimeGen.AssemblyInfo.cs
+C:\Users\psbyd\RiderProjects\PrimeGen\PrimeGen\obj\Debug\net5.0\PrimeGen.csproj.CoreCompileInputs.cache
+C:\Users\psbyd\RiderProjects\PrimeGen\PrimeGen\obj\Debug\net5.0\PrimeGen.dll
+C:\Users\psbyd\RiderProjects\PrimeGen\PrimeGen\obj\Debug\net5.0\ref\PrimeGen.dll
+C:\Users\psbyd\RiderProjects\PrimeGen\PrimeGen\obj\Debug\net5.0\PrimeGen.pdb
+C:\Users\psbyd\RiderProjects\PrimeGen\PrimeGen\obj\Debug\net5.0\PrimeGen.genruntimeconfig.cache
